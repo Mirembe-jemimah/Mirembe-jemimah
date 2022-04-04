@@ -1,16 +1,16 @@
 
-# Hi, I'm  Bukenya Kizza Roland 👋🏼 👨🏻‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I am Mirembe Jemimah 🏻‍💻 
 
 <table>
 <tr>
   <td valign="center">
-I am a competent software developer with 4 years of professional experience in developing android mobile apps with React Native and web apps with React.js and Next.js , tailwind css ,Redux toolkit,React Typescript,Git. I am also well equipped with backend skills such as node.js and working with Mongo Database. My strongest skill is web and mobile application development. I also have a strong foundation in math skills and logical thinking of given tasks. Very eager and flexible to learning new changes in technology.
+I am a competent front end developer with 2 years of experience in developing web apps with React.js and Next.js , tailwind css ,Redux toolkit,React Typescript,Git. I am also well equipped with backend skills such as node.js and working with Mongo Database. My strongest skill is web and mobile application development. I also have a strong foundation in math skills and logical thinking of given tasks. Very eager and flexible to learning new changes in technology.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
     
 
 <td >
-  <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="350" alt="bukenya kizza roland's Dev Card"/></a>
+  <a href="https://app.daily.dev/mirembe jemimah"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="350" alt=" mirembe jemimah's Dev Card"/></a>
   </td>
 
 </tr>
@@ -23,8 +23,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
  ##
 
  <div>
-  <a href="https://github.com/Bkroland19">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/mirembejemimah">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=mirembejemimah&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -42,8 +42,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
   ##
  
 <div> 
-  <a href = "mailto:bkroland19@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eng-bukenya-kizza-roland-mongodb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jaymiecrystal117@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jemimah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/bisaacm1/bisaacm1/blob/output/github-contribution-grid-snake.svg)
  
