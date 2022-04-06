@@ -9,9 +9,6 @@ I am a competent front end developer with 2 years of experience in developing we
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
     
 
-<td >
-  <a href="https://app.daily.dev/mirembe jemimah"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="350" alt=" mirembe jemimah's Dev Card"/></a>
-  </td>
 
 </tr>
 </table>
